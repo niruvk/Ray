@@ -1,5 +1,8 @@
 # Ray
-The Smart UV Tracking Necklace
+A Smart UV Tracking Necklace
+
+<img width="1024" height="1024" alt="Ray" src="https://github.com/user-attachments/assets/ebb497fe-0dc6-4142-904c-4db1f974ee4d" />
+
 
 # Project Description
 "Ray" is a wearable technology project that combines fashion with healthcare. This project introduces a necklace that is integrated with a UV sensor capable of tracking UV radiation. Paired with a mobile app hosted using Blynk, "Ray" aims to revolutionize how individuals interact with and manage their sun exposure.
