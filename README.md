@@ -36,7 +36,7 @@ Technical Specifications:
 - User will download an app and receive hardware (necklace) with an easy setup and connection
 
 # Credits
-- Divija Durga (divija@princeton.edu)
 - Niranjan Vijaya Krishnan (niruvk@princeton.edu)
+- Divija Durga (divija@princeton.edu)
 
 Created for HackPrinceton 2023
