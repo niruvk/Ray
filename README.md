@@ -38,3 +38,5 @@ Technical Specifications:
 # Credits
 - Divija Durga (divija@princeton.edu)
 - Niranjan Vijaya Krishnan (niruvk@princeton.edu)
+
+Created for HackPrinceton 2023
